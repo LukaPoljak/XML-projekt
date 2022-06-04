@@ -1,0 +1,48 @@
+body{
+    background-color:black;
+    margin:auto;
+}
+
+.mit img{
+    float:left;
+}
+
+footer{
+    text-align: center;
+    color:white;
+}
+
+h2{
+    color:white;
+}
+
+.mit{
+    color:white;
+    height:700px;
+    text-align: center;
+}
+
+h1{
+    color:white;
+    text-transform: capitalize;
+   font-size: 60px;
+}
+
+#apollo{
+    height:80%;
+}
+
+p {
+    font-size:20px;
+}
+
+#tekst{
+    position:relative;
+    top: 20%;
+    margin: auto;
+    color:white;
+}
+
+#svarog{
+    height:50%;
+}

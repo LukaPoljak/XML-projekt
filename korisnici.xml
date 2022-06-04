@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korisnici>
+   <korisnik>
+      <nadimak>Luka</nadimak>
+      <lozinka>123456</lozinka>
+   </korisnik>
+   <korisnik>
+      <nadimak>Fran</nadimak>
+      <lozinka>456789</lozinka>
+   </korisnik>
+</korisnici>
